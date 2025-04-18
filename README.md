@@ -21,7 +21,3 @@ dotnet publish -c Release -r win-x64 /p:PublishSingleFile=true
 ```
 3. Get your EXE here:
 \bin\Release\net8.0\win-x64\publish\PatchMaker.exe
-
-REQUIREMENTS:
-- Windows 10/11 (64-bit)
-- For non-standalone: [.NET 8 Runtime](https://dotnet.microsoft.com)
